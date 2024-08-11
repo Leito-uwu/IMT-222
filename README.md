@@ -10,7 +10,7 @@ Al mismo tiempo poner en práctica el manejo de la sintaxis de**Markdown**.
 
 Leonardo Vargas Condori
 
-Sistemas Embebidos I**IMT-22**
+Sistemas Embebidos I  **IMT-22**
 
 ## Instalación
 
