@@ -27,3 +27,6 @@ Para poder clonar el repositorio se debe seguir los sgt. pasos:
 
 Un sistema embebido es un conjunto de elementos como procesador, memoria y actuadores. 
 Estos trabajan juntos para cumplir una tarea en específico, dentro de un sistema más complejo.
+ 
+ hola mundo
+ 
