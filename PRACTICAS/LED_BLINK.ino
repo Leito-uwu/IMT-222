@@ -1,6 +1,7 @@
+#define BAUDRAT 9600
 void setup() {
  pinMode(13,OUTPUT);
- serial.begin(9600);
+ serial.begin(BAUDRAT);
 
 
 }
