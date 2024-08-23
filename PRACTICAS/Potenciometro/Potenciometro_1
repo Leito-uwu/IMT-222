@@ -1,0 +1,14 @@
+#define POT A0
+#define LEC 9600
+#define TIM 100
+void setup()
+{
+  Serial.begin(LEC);
+}
+
+void loop()
+{
+  int sensor = analogRead(POT);
+  Serial.println(sensor);
+  delay(TIM);
+}
