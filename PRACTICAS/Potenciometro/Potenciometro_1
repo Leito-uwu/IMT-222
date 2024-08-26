@@ -1,14 +1,14 @@
-#define POT A0
-#define LEC 9600
-#define TIM 100
+#define POT       A0
+#define BAURENT   9600
+#define TIME      100
 void setup()
 {
-  Serial.begin(LEC);
+  Serial.begin(BAURENT);
 }
 
 void loop()
 {
-  int sensor = analogRead(POT);
+  int16_t sensor = analogRead(POT);
   Serial.println(sensor);
-  delay(TIM);
+  delay(TIME);
 }
