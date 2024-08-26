@@ -1,3 +1,4 @@
+//Varibales Macros
 #define LED		13
 #define POT		A0
 
