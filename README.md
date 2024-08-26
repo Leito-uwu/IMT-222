@@ -29,4 +29,9 @@ Un sistema embebido es un conjunto de elementos como procesador, memoria y actua
 Estos trabajan juntos para cumplir una tarea en específico, dentro de un sistema más complejo.
  
  hola mundo
+
+
+### Practica N4
  
+ En esta practica se poder controlar la luminosidad de un Led, mediante un potenciometro. 
+ Se puede llegar a este mediante la funcion map , o directamente leyendo el pot dividiendolo entre 4
